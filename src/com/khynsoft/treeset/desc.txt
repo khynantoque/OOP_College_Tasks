@@ -1,0 +1,7 @@
+Antoque BSCS-2
+
+[[TreeSet]]
+The TreeSet class internally uses a TreeMap to store elements.
+The elements in a TreeSet are sorted according to their natural ordering.
+You may also provide a custom Comparator to the TreeSet at the time of
+creation to let it sort the elements based on the supplied comparator.

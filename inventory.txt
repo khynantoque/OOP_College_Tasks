@@ -1,0 +1,6 @@
+==================[[ Item Inventory Report ]]==================
+[Product]            [Remaining Quantity]
+  Candy                    7            
+  Potato Chip              8            
+  Chewing Gum              9            
+  Cookie                   3            

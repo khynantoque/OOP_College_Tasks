@@ -1,0 +1,8 @@
+Antoque BSCS-2
+
+[[HashMap]]
+A HashMap is a map used to store mappings of key-value pairs.
+HashMap in Java works on hashing principles.
+It is a data structure which allows us to store object and retrieve it in constant time
+O(1) provided we know the key.
+In hashing, hash functions are used to link key and value in HashMap.

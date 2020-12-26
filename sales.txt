@@ -1,0 +1,7 @@
+==================[[ Sales Report ]]==================
+[Product]            [Quantity]           [Total Sold]
+  Candy                0                  Php 0
+  Potato Chip          1                  Php 23
+  Chewing Gum          0                  Php 0
+  Cookie               1                  Php 27
+                            Total Income: Php 50
